@@ -1,1 +1,1 @@
-# new-exersice
+# new-exersice description of the read me file
